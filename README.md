@@ -1,1 +1,2 @@
 # getignore-test
+NODE
